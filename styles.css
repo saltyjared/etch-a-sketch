@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background-color: #CD001A;
+}
+
+
+.header {
+    text-align: center;
+    color: #ffd700;
+    text-shadow: 2px 2px black;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 540px;
+    margin: auto;
+}
+
+.grid-square {
+    flex: 1 0 auto;
+}
